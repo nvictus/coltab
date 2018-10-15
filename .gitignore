@@ -6,6 +6,7 @@
 __pycache__
 .cache
 .coverage
+.pytest_cache/
 
 # setup and build
 docs/_*
